@@ -1,4 +1,4 @@
-##Personal information
+## Personal information
 
 * Name: Dmitry Volchek
 * Date of birth: 1977-08-20
@@ -7,12 +7,12 @@
 * e-mail: vdn@tut.by
 * [Linkedin](https://www.linkedin.com/in/дмитрий-волчек-317bb551)
 
-##Working experience summary
+## Working experience summary
 
-##Skills
+## Skills
 
-##Code examples
+## Code examples
 
-##Education
+## Education
 
-##Languages
+## Languages
