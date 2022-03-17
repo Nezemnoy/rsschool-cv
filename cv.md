@@ -7,16 +7,15 @@
 * address: Minsk, Belarus
 * e-mail: vdn@tut.by
 * [Linkedin](https://www.linkedin.com/in/дмитрий-волчек-317bb551)
+## Avatar
+
+![fatcat](FatCat.GIF)
 
 ## Working experience summary
 
 * spent more than __23 years__ in total in banks, including __11 years__ for Belarusian subsidiary of [Raiffeisen Bank International](https://www.rbinternational.com/en/homepage.html)
 * hold different __positions__ (Head of Department, Head of Branch, Executive Director, Deputy CEO) and __roles__ (CDO, COO, CIO)
 * dozens of __projects__ successfully implemented, lots of uniq __products__ and Afluent __customer segmemnt__ successsfully launched  
-
-## Avatar
-
-![fatcat](FatCat.GIF)
 
 ## Skills
 
