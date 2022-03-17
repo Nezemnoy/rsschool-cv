@@ -13,9 +13,12 @@
 * hold different __positions__ (Head of deparments, Head of branch, Executive Director, deputy CEO) and __roles__ (CDO, COO, CIO)
 * dozens of __projects__ succsefully implemented, lots of uniq __products__ and Aluent __customer segmemnt__ succsesfully launched  
 
-
-
 ## Skills
+
+* proficiency  in management (teams, units, Boаrd area up to 160 employees)
+* deep uderstanding of Banking (Payments, E-money, Cards, Acuaring, Lending, Risk Management etc.)
+* expertise in IT management, proceses & projects management
+* basics skills in Markdown, HTML, JavaScript, C#, DB.    
 
 ## Code examples
 
