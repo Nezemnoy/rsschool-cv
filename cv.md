@@ -9,6 +9,12 @@
 
 ## Working experience summary
 
+* spent more than __23 years__ in total in banks, including __11 years__ for Belarusian subsidiary of [Raiffeisen Bank International](https://www.rbinternational.com/en/homepage.html)
+* hold different __positions__ (Head of deparments, Head of branch, Executive Director, deputy CEO) and __roles__ (CDO, COO, CIO)
+* dozens of __projects__ succsefully implemented, lots of uniq __products__ and Aluent __customer segmemnt__ succsesfully launched  
+
+
+
 ## Skills
 
 ## Code examples
