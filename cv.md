@@ -14,6 +14,10 @@
 * hold different __positions__ (Head of Department, Head of Branch, Executive Director, Deputy CEO) and __roles__ (CDO, COO, CIO)
 * dozens of __projects__ successfully implemented, lots of uniq __products__ and Afluent __customer segmemnt__ successsfully launched  
 
+## Avatar
+
+![fatcat](FatCat.GIF)
+
 ## Skills
 
 * proficiency  in management (teams, units, Boаrd area up to 160 employees)
