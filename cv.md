@@ -22,3 +22,7 @@
 Technology Institute](https://iti.bsuir.by), Iformation Systems Software, 2014-2016
 
 ## Languages
+
+* Native Russian, Belarusian
+* Fluent English (B2 - C1)
+* Basic Polish (A1 - A2)
