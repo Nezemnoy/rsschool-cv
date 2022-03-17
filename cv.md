@@ -22,6 +22,19 @@
 
 ## Code examples
 
+Some code in Solidity[^1]. It was written for fun several years ago.     
+```
+function multiTransfer (uint _value) public {
+
+        for  (uint i=0; i < walletsList.length; i++)
+        {
+            require (token.balanceOf(this)>=_value);
+            require (walletsList[i] != address (0));
+            token.transfer (walletsList[i], _value);
+            token.Transfer (this, walletsList[i], _value);
+        }
+}
+```
 ## Education
 
 * [Belarusian State Economic University](http://bseu.by/english/), Banking, 1994-1998
@@ -35,3 +48,5 @@ Technology Institute](https://iti.bsuir.by), Iformation Systems Software, 2014-2
 * Native Russian, Belarusian
 * Fluent English (B2 - C1)
 * Basic Polish (A1 - A2)
+
+[^1]:Solidity is an object-oriented programming language for writing smart contracts. It is used for implementing smart contracts on various blockchain platforms, most notably, Ethereum.
